@@ -1,7 +1,7 @@
 import random
 
 # enter your pair {'theme': 'word'}
-theme_word_dict = {'Животное': 'тюлень', 'млекопитающее': 'дельфин', 'жалеет зерно': 'крот', 'жжется': 'крапива'}
+theme_word_dict = {'Животное': 'тюлень', 'млекопитающее': 'дельфин', 'японское авто': 'сузуки', 'жжется': 'крапива'}
 words = []
 themes = []
 for k, n in theme_word_dict.items():
