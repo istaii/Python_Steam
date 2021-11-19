@@ -1,5 +1,3 @@
-#!/usr/lib/python3.8
-
 import random
 
 # enter your pair {'theme': 'word'}
